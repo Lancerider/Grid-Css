@@ -1,0 +1,25 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Curso grid de platzi",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "Grid",
+    "Layout",
+    "Curso",
+    "Platzi"
+  ],
+  "author": "@JorgepalaciosCL\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[P\u001b[C\u001b[C",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
